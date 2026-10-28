@@ -1,0 +1,11 @@
+D:\java code\firstexampleC#\Software Sale\Software Sale\obj\Debug\Software Sale.csproj.AssemblyReference.cache
+D:\java code\firstexampleC#\Software Sale\Software Sale\obj\Debug\Software_Sale.Form1.resources
+D:\java code\firstexampleC#\Software Sale\Software Sale\obj\Debug\Software_Sale.Properties.Resources.resources
+D:\java code\firstexampleC#\Software Sale\Software Sale\obj\Debug\Software Sale.csproj.GenerateResource.cache
+D:\java code\firstexampleC#\Software Sale\Software Sale\obj\Debug\Software Sale.csproj.CoreCompileInputs.cache
+D:\java code\firstexampleC#\Software Sale\Software Sale\bin\Debug\Software Sale.exe.config
+D:\java code\firstexampleC#\Software Sale\Software Sale\bin\Debug\Software Sale.exe
+D:\java code\firstexampleC#\Software Sale\Software Sale\bin\Debug\Software Sale.pdb
+D:\java code\firstexampleC#\Software Sale\Software Sale\obj\Debug\Software Sale.exe
+D:\java code\firstexampleC#\Software Sale\Software Sale\obj\Debug\Software Sale.pdb
+D:\java code\firstexampleC#\Software Sale\Software Sale\obj\Debug\Software Sale.exe.config
