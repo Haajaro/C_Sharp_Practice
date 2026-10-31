@@ -1,4 +1,4 @@
-# Week 3  C# Making Decisions
+# Chapter 3   C# Making Decisions
 
 ##  Topics Covered
 
